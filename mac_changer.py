@@ -5,7 +5,7 @@ import optparse
 import re
 
 
-#realmac:08:00:27:c7:e1:36
+#fakemac:08:00:27:c7:e1:33
 
 #interface = "eth0"
 
