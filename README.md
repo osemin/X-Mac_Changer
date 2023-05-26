@@ -1,8 +1,8 @@
 # X-Mac_Changer
 # Mac address change program in linux
    
-root@# python mac_changer.py --help
-Usage: mac_changer.py [options]
+# root@# python mac_changer.py --help 
+# Usage: mac_changer.py [options]
 
 Options:
   -h, --help            show this help message and exit
